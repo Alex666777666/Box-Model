@@ -1,0 +1,14 @@
+.rectangle {
+  width: 512px;
+  height: 128px;
+  padding: 16px;
+  margin: 16px;
+  border: 8px solid black;
+}
+.rectangle1 {
+  background-color: antiquewhite;
+}
+.rectangle2 {
+  background-color: azure;
+  box-sizing: border-box;
+}
